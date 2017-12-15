@@ -1,0 +1,31 @@
+c:\users\lorfer\documents\visual studio 2013\Projects\ProyectoFactura\ProyectoFactura\bin\Debug\ProyectoFactura.exe.config
+c:\users\lorfer\documents\visual studio 2013\Projects\ProyectoFactura\ProyectoFactura\bin\Debug\ProyectoFactura.exe
+c:\users\lorfer\documents\visual studio 2013\Projects\ProyectoFactura\ProyectoFactura\bin\Debug\ProyectoFactura.pdb
+c:\users\lorfer\documents\visual studio 2013\Projects\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.Properties.Resources.resources
+c:\users\lorfer\documents\visual studio 2013\Projects\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.csproj.GenerateResource.Cache
+c:\users\lorfer\documents\visual studio 2013\Projects\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.exe
+c:\users\lorfer\documents\visual studio 2013\Projects\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.pdb
+c:\users\lorfer\documents\visual studio 2013\Projects\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.FacturarProducto.resources
+C:\Users\lorfer\documents\visual studio 2013\Projects\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.AgregarProducto.resources
+C:\Users\lorfer\documents\visual studio 2013\Projects\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.ContenedorPrincipal.resources
+C:\Users\lorfer\documents\visual studio 2013\Projects\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.csprojResolveAssemblyReference.cache
+C:\Users\lorfer\documents\visual studio 2013\Projects\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.ConsultarFacturas.resources
+C:\Users\lorfer\Music\Documents\Visual Studio 2013\Projects\ProyectoFactura\ProyectoFactura\bin\Debug\ProyectoFactura.exe.config
+C:\Users\lorfer\Music\Documents\Visual Studio 2013\Projects\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.exe
+C:\Users\lorfer\Music\Documents\Visual Studio 2013\Projects\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.pdb
+D:\programacion\ProyectoFactura\ProyectoFactura\bin\Debug\ProyectoFactura.exe.config
+D:\programacion\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.exe
+D:\programacion\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.pdb
+D:\programacion\Programacion\Visual C#\ProyectoFactura\ProyectoFactura\bin\Debug\ProyectoFactura.exe.config
+D:\programacion\Programacion\Visual C#\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.exe
+D:\programacion\Programacion\Visual C#\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.pdb
+D:\programacion\Programacion\Visual C#\ProyectoFactura\ProyectoFactura\bin\Debug\ProyectoFactura.exe
+D:\programacion\Programacion\Visual C#\ProyectoFactura\ProyectoFactura\bin\Debug\ProyectoFactura.pdb
+D:\programacion\Programacion\Visual C#\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.csprojResolveAssemblyReference.cache
+D:\programacion\Programacion\Visual C#\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.AgregarProducto.resources
+D:\programacion\Programacion\Visual C#\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.ConsultarFacturas.resources
+D:\programacion\Programacion\Visual C#\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.ContenedorPrincipal.resources
+D:\programacion\Programacion\Visual C#\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.FacturarProducto.resources
+D:\programacion\Programacion\Visual C#\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.Properties.Resources.resources
+D:\programacion\Programacion\Visual C#\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.Views.Login.resources
+D:\programacion\Programacion\Visual C#\ProyectoFactura\ProyectoFactura\obj\Debug\ProyectoFactura.csproj.GenerateResource.Cache
