@@ -49,7 +49,7 @@
     <Compile Include="controller\ConsultarController.cs" />
     <Compile Include="controller\DetalleControler.cs" />
     <Compile Include="controller\FacturarProductoController.cs" />
-    <Compile Include="Model\Cuenta.cs" />
+    <Compile Include="Model\Account.cs" />
     <Compile Include="Views\AgregarProducto.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -127,6 +127,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Settings-5_379393.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Facturar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facturaIcono-150x150.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

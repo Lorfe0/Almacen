@@ -16,7 +16,7 @@ namespace ProyectoFactura
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ProyectoFactura.Views.Login());
+            Application.Run(new ContenedorPrincipal());
         }
     }
 }

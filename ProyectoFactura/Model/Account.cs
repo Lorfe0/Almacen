@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoFactura.Model
 {
-    class cuenta
+    class Account
     {
         public string usuario { get; set; }
         public string contraseña { get; set; }

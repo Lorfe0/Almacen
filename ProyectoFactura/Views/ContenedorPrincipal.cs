@@ -21,15 +21,15 @@ namespace ProyectoFactura
         {
             AgregarProducto a = new AgregarProducto();
 
-            this.Hide();
+            a.MdiParent = this;
             a.Show();
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
             FacturarProducto facturar = new FacturarProducto();
+            facturar.MdiParent = this;
             facturar.Show();
-            this.Hide();
             
             
         }
@@ -37,8 +37,50 @@ namespace ProyectoFactura
         private void pictureBox3_Click(object sender, EventArgs e)
         {
             ConsultarFacturas consultar = new ConsultarFacturas();
+            consultar.MdiParent = this;
             consultar.Show();
-            this.Hide();
+            
+        }
+
+        private void toolStripLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripContainer1_ContentPanel_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ContenedorPrincipal_Load(object sender, EventArgs e)
+        {
+            MdiClient ctlMDI;
+            // Loop through all of the form's controls looking
+            // for the control of type MdiClient.
+            foreach (Control ctl in this.Controls)
+            {
+                try
+                {
+                    // Attempt to cast the control to type MdiClient.
+                    ctlMDI = (MdiClient)ctl;
+
+                    // Set the BackColor of the MdiClient control.
+                    ctlMDI.BackColor = this.BackColor;
+                }
+                catch (InvalidCastException exc)
+                {
+                    // Catch and ignore the error if casting failed.
+                }
+            }
+
+            // Display a child form to show this is still an MDI application.
+          
+
+        }
+
+        private void toolStripButton2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

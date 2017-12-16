@@ -13,17 +13,9 @@ namespace ProyectoFactura.controller
     class ConsultarController
     {
 
-        ConectarBD inst = ConectarBD.instancia();
-        
-        
-        
-
-
        
-        public void consultarUsuario(Model.cuenta cuenta )
-        {
-            string consulta = "SELECT contra from cuenta where usu =  " + cuenta.usuario;
-
+        
+        
             
 
 
@@ -33,4 +25,4 @@ namespace ProyectoFactura.controller
         
 
     }
-}
+
