@@ -31,7 +31,7 @@ namespace ProyectoFactura
             MySqlConnection conectar = new MySqlConnection("server = 127.0.0.1;" +
                                                             "database=almacen;"+ 
                                                             "Uid=root;"+ 
-                                                            "pwd=1234;");
+                                                            "pwd=;");
             conectar.Open();
             return conectar;
         }
@@ -39,7 +39,7 @@ namespace ProyectoFactura
         //Metodo para cerrar la coneccion 
         public static MySqlConnection Desconectar()
         {
-            MySqlConnection desconectar = new MySqlConnection("server = 127.0.0.1; database = almacen; Uid=root; pwd=1234;");
+            MySqlConnection desconectar = new MySqlConnection("server = 127.0.0.1; database = almacen; Uid=root; pwd=;");
             desconectar.Close();
             return desconectar;
         }
